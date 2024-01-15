@@ -9,7 +9,7 @@ import "./globals.css";
 const dmSans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Anime Vault",
+  title: "Anime Vault Website",
   description: "Your favorite anime, all in one place.",
 };
 
